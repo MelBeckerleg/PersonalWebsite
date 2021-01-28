@@ -6,8 +6,8 @@ bio: My research interests include applied mathematics, algorithm design and
   artificial intelligence.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Mathematics
+  - Algorithm Design
 social:
   - icon: envelope
     icon_pack: fas
