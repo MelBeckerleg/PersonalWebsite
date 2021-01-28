@@ -2,8 +2,8 @@
 title: Mel Beckerleg
 role: Mathematical Consultant
 avatar_filename: melanie.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include applied mathematics, algorithm design and
+  artificial intelligence.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
