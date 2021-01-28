@@ -24,19 +24,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Smith Institute
+    url: https://www.smithinst.co.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD
+      institution: University of Oxford
+    - course: Mmath
+      institution: Durham University
+    - course: Mmath - ERASMUS
+      institution: University of Fribourg
 email: ""
 superuser: true
 highlight_name: false
