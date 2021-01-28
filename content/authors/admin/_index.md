@@ -14,16 +14,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Mellurs
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5V3WGdLoNDKf0bjMDHodo4Zed0qvf56-H3uRPtOSHqD4W1tVpcMdekfCkZ3C066w2s5OmPzxZTOJFvCK6cLxjd1WK3yw&user=Ve_HlbIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MelBeckerleg/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mel-beckerleg/
 organizations:
   - name: Smith Institute
     url: https://www.smithinst.co.uk/
